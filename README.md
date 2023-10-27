@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabroy-kls&label=Profile%20views&color=0e75b6&style=flat" alt="arnabroy-kls" /> </p>
 
-- 🌱 I’m currently learning **Fundamentals of Red Hat Enterprise Linux**
+- 🌱 I’m currently learning **Fundamentals of Red Hat Enterprise Linux**                        
 
 - 📫 How to reach me **arnabroykls@gmail.com**
 
