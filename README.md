@@ -1,7 +1,7 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="Waving hand animated gif" height="40" width="40"/>, I'm ARNAB ROY</h1>
 <h3 align="center">A passionate cyber security & Penetration Testing</h3>
-<img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabroy-kls&label=Profile%20views&color=0e75b6&style=flat" alt="arnabroy-kls" /> </p>
