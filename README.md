@@ -1,3 +1,4 @@
+![](https://i.imgur.com/mOZpPGs.gif)
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="Waving hand animated gif" height="40" width="40"/>, I'm ARNAB ROY</h1>
 <h3 align="center">A Passionate Cyber Security Analyst & Penetration Tester</h3>
